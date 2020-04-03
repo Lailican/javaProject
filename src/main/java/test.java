@@ -19,5 +19,6 @@ public class test {
             System.out.println(declaredField.get(a));
         }
 
+
     }
 }
