@@ -18,7 +18,6 @@ public class test {
             System.out.println(declaredField.getName());
             System.out.println(declaredField.get(a));
         }
-//dev分支
 
     }
 }
