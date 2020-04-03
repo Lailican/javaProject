@@ -11,6 +11,7 @@ public class test {
         JSONObject.toJSON(a);
        String ad= JSONObject.toJSONString(a);
         System.out.println(ad);
+        //master改动
         Class<user> userClass = user.class;
         Field[] declaredFields = userClass.getDeclaredFields();
         for (int i = 0; i < declaredFields.length; i++) {
